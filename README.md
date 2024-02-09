@@ -1,9 +1,11 @@
-# This repository contains the code for 
+# Multifidelity continual learning
+
+This repository contains the code for 
 
                  Howard, Amanda, Yucheng Fu, and Panos Stinis. "A multifidelity approach to continual learning for physical systems." arXiv preprint arXiv:2304.03894 (2023).
 
 
-# DISCLAIMER:
+DISCLAIMER:
 This material was prepared as an account of work sponsored by an agency of the
 United States Government.  Neither the United States Government nor the United
 States Department of Energy, nor Battelle, nor any of their employees, nor any
