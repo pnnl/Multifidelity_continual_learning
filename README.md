@@ -2,7 +2,7 @@
 
 This repository contains the code for 
 
-> *Howard, Amanda, Yucheng Fu, and Panos Stinis. "A multifidelity approach to continual learning for physical systems." arXiv preprint arXiv:2304.03894 (2023).
+> Howard, Amanda, Yucheng Fu, and Panos Stinis. "A multifidelity approach to continual learning for physical systems." arXiv preprint arXiv:2304.03894 (2023).
 
 
 DISCLAIMER:
