@@ -2,7 +2,7 @@
 
 This repository contains the code for 
 
-                 Howard, Amanda, Yucheng Fu, and Panos Stinis. "A multifidelity approach to continual learning for physical systems." arXiv preprint arXiv:2304.03894 (2023).
+> *Howard, Amanda, Yucheng Fu, and Panos Stinis. "A multifidelity approach to continual learning for physical systems." arXiv preprint arXiv:2304.03894 (2023).
 
 
 DISCLAIMER:
@@ -32,13 +32,13 @@ reflect those of the United States Government or any agency thereof.
 
 # Data 
 
-##The data for Section 4.2 is from
+## The data for Section 4.2 is from
 > *Wang, Z., Hong, T., Li, H. and Piette, M.A., 2021. Predicting City-Scale Daily Electricity Consumption Using Data-Driven Models. Advances in Applied Energy, p.100025.*
 https://doi.org/10.1016/j.adapen.2021.100025
 [Zhe Wang](mailto:zwang5@lbl.gov ) or [Tianzhen Hong](mailto:thong@lbl.gov)
 
 Access to original data: 
-git clone https://github.com/LBNL-ETA/City-Scale-Electricity-Use-Prediction
+https://github.com/LBNL-ETA/City-Scale-Electricity-Use-Prediction
 
 @article{wang2021predicting,
   title={Predicting City-Scale Daily Electricity Consumption Using Data-Driven Models},
@@ -55,7 +55,7 @@ git clone https://github.com/LBNL-ETA/City-Scale-Electricity-Use-Prediction
 The MAS implementation is adapted from 
 https://github.com/ariseff/overcoming-catastrophic
 
-@misc{ariseff,
+> *@misc{ariseff,
   author = {Seff, Ari},
   title = {overcoming-catastrophic},
   year = {2020},
@@ -70,7 +70,7 @@ https://github.com/ariseff/overcoming-catastrophic
 The Jax neural network implementation is adapted from 
 https://github.com/PredictiveIntelligenceLab/ImprovedDeepONets
 
-@misc{sifanw094,
+> *@misc{sifanw094,
   author = {Wang, Sifan},
   title = {ImprovedDeepONets},
   year = {2022},
@@ -82,7 +82,7 @@ https://github.com/PredictiveIntelligenceLab/ImprovedDeepONets
 }
 
 # Citation
-@article{howard2023multifidelity,
+> *@article{howard2023multifidelity,
   title={A multifidelity approach to continual learning for physical systems},
   author={Howard, Amanda and Fu, Yucheng and Stinis, Panos},
   journal={arXiv preprint arXiv:2304.03894},
