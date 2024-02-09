@@ -1,10 +1,6 @@
 # This repository contains the code for 
-@article{howard2023multifidelity,
-  title={A multifidelity approach to continual learning for physical systems},
-  author={Howard, Amanda and Fu, Yucheng and Stinis, Panos},
-  journal={arXiv preprint arXiv:2304.03894},
-  year={2023}
-}
+
+                 Howard, Amanda, Yucheng Fu, and Panos Stinis. "A multifidelity approach to continual learning for physical systems." arXiv preprint arXiv:2304.03894 (2023).
 
 
 # DISCLAIMER:
@@ -32,13 +28,14 @@ reflect those of the United States Government or any agency thereof.
                     under Contract DE-AC05-76RL01830
 
 
-# Data for Section 4.2 is from
+# Data 
+
+##The data for Section 4.2 is from
 > *Wang, Z., Hong, T., Li, H. and Piette, M.A., 2021. Predicting City-Scale Daily Electricity Consumption Using Data-Driven Models. Advances in Applied Energy, p.100025.*
 https://doi.org/10.1016/j.adapen.2021.100025
 [Zhe Wang](mailto:zwang5@lbl.gov ) or [Tianzhen Hong](mailto:thong@lbl.gov)
 
-
-## Access to original data: 
+Access to original data: 
 git clone https://github.com/LBNL-ETA/City-Scale-Electricity-Use-Prediction
 
 @article{wang2021predicting,
@@ -51,7 +48,9 @@ git clone https://github.com/LBNL-ETA/City-Scale-Electricity-Use-Prediction
 }
 
 
-# MAS implementation adapted from 
+# MAS implementation
+
+The MAS implementation is adapted from 
 https://github.com/ariseff/overcoming-catastrophic
 
 @misc{ariseff,
@@ -64,7 +63,9 @@ https://github.com/ariseff/overcoming-catastrophic
   commit = {cab6d86}
 }
 
-# Jax neural network implementation adapted from 
+# Jax neural network
+
+The Jax neural network implementation is adapted from 
 https://github.com/PredictiveIntelligenceLab/ImprovedDeepONets
 
 @misc{sifanw094,
